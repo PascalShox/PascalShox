@@ -6,10 +6,8 @@
 
 
 - ⚡ I'm currently learning git and other cool stuff
-<p style="float: left; clear left">- :video_game: I like PvP Games like <p><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LoL_icon.svg></p>
+<p style="float: left; clear left">- :video_game: I like PvP Games like </p><p><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LoL_icon.svg></p>
 
-<!-- <img width="50" height="50" src="https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png> <img width="50" height="50" src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/1200px-WoW_icon.svg.png">
--->
 
 
 <!--
