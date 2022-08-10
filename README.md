@@ -6,10 +6,13 @@
 
 <ul>
  <li>⚡ I'm currently learning git and other cool stuff</li>
-<li>:video_game: I like PvP games like: <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LoL_icon.svg">
-<img width="20" height="20" src="https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png">
-<img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/1200px-WoW_icon.svg.png"></li>
+ <li>:fire: I know some stuff already about HTML, CSS, JS
+ <li>:video_game: I like PvP games like: <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LoL_icon.svg">
+ <img width="20" height="20" src="https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png">
+ <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/1200px-WoW_icon.svg.png"></li>
 </ul>
+
+
 
 </br>
 
@@ -23,15 +26,7 @@
  <img src="https://profile-counter.glitch.me/{PascalShox}/count.svg">
 </p>
 
-<style>
-.myDiv {
-  margin-left: 400px;
-}
-</style>
 
-<div class="myDiv">
- <p> testoooo </p>
- </div>
 
 <!--
 **PascalShox/PascalShox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
