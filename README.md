@@ -16,7 +16,7 @@
 <p align="center">
  <img src="https://profile-counter.glitch.me/{PascalShox}/count.svg">
 </p>
-![Visitor Count](https://profile-counter.glitch.me/{PascalShox}/count.svg)
+
 
 <!--
 **PascalShox/PascalShox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
