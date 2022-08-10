@@ -6,8 +6,8 @@
 
 
 - ⚡ I'm currently learning git and other cool stuff
-- :video_game: I like PvP Games like
-<p><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LoL_icon.svg"></p>
+<p style="float: left; clear: left">- :video_game: I like PvP Games like </p>
+<p><img width="23" height="23" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LoL_icon.svg"></p>
 
 
 
