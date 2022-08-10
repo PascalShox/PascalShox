@@ -1,6 +1,6 @@
 <!-- ![](https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
 -->
-<p align="left">
+<p align="center">
  <img src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif">
 </p>
 
@@ -8,7 +8,7 @@
 <br />
 
 <ul>
- <li>⚡ I'm currently learning git and other cool stuff</li>
+ &nbsp; <li>⚡ I'm currently learning git and other cool stuff</li>
  <li>:fire: I know some stuff already about HTML, CSS, JS
  <li>:video_game: I like PvP games like: <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LoL_icon.svg">
  <img width="20" height="20" src="https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png">
@@ -25,8 +25,7 @@
 </p>
 
 <br />
-&nbsp;
-&nbsp;
+
 <p align="center">
  <img src="https://profile-counter.glitch.me/{PascalShox}/count.svg">
 </p>
