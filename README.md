@@ -4,8 +4,8 @@
  <img src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif">
 </p>
 
-</br>
-</br>
+<br />
+<br />
 
 <ul>
  <li>⚡ I'm currently learning git and other cool stuff</li>
@@ -17,15 +17,14 @@
 
 
 
-</br>
-</br>
+<br />
+<br />
 
 <p align="left">
 <img width="350" height="350" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </p>
 
-</br>
-</br>
+<br />
 
 <p align="left">
  <img src="https://profile-counter.glitch.me/{PascalShox}/count.svg">
