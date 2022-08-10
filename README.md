@@ -1,4 +1,9 @@
-![](https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
+<!-- ![](https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
+-->
+<p align="center">
+ <src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif">
+</p>
+
 
 - ⚡ I'm currently learning git and other cool stuff
 - :video_game: I like PvP Games
