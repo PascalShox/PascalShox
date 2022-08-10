@@ -1,7 +1,6 @@
-### Hello there ~K
-- M-1 I'm currently learning git
 ![](https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
 
+- ⚡ I'm currently learning git and ohther cool stuff
 
 <!--
 **PascalShox/PascalShox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
