@@ -23,8 +23,15 @@
  <img src="https://profile-counter.glitch.me/{PascalShox}/count.svg">
 </p>
 
-<p style="margin-left:700px"> test test </p>
+<style>
+.myDiv {
+  margin-left: 400px;
+}
+</style>
 
+<div class="myDiv">
+ <p> testoooo </p>
+ </div>
 
 <!--
 **PascalShox/PascalShox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
