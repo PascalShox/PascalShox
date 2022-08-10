@@ -23,9 +23,7 @@
  <img src="https://profile-counter.glitch.me/{PascalShox}/count.svg">
 </p>
 
-<div style="margin-left:700px">
- test test test
- </div> 
+<p style="margin-left:700px"> test test </p>
 
 
 <!--
