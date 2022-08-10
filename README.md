@@ -1,14 +1,14 @@
 <!-- ![](https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
 -->
-<p align="center">
+<p align="left">
  <img src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif">
 </p>
 
 </br>
 </br>
 
-<ul align="center">
- <li align="center">⚡ I'm currently learning git and other cool stuff</li>
+<ul>
+ <li>⚡ I'm currently learning git and other cool stuff</li>
  <li>:fire: I know some stuff already about HTML, CSS, JS
  <li>:video_game: I like PvP games like: <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LoL_icon.svg">
  <img width="20" height="20" src="https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png">
@@ -20,14 +20,14 @@
 </br>
 </br>
 
-<p align="center">
+<p align="left">
 <img width="350" height="350" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </p>
 
 </br>
 </br>
 
-<p align="center">
+<p align="left">
  <img src="https://profile-counter.glitch.me/{PascalShox}/count.svg">
 </p>
 
