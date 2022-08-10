@@ -11,13 +11,13 @@
 <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/1200px-WoW_icon.svg.png"></li>
 </ul>
 
-<a></a>
+</br>
 
 <p align="center">
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </p>
 
-<a></a>
+</br>
 
 <p align="center">
  <img src="https://profile-counter.glitch.me/{PascalShox}/count.svg">
