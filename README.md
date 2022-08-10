@@ -17,7 +17,7 @@
 </br>
 
 <p align="center">
-<img width="500" height="500" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img width="350" height="350" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </p>
 
 </br>
