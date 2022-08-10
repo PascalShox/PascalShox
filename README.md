@@ -5,8 +5,8 @@
 </p>
 
 <ul>
- <li>- ⚡ I'm currently learning git and other cool stuff</li>
-<li>- :video_game: I like PvP Games like<p><img width="23" height="23" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LoL_icon.svg"></p></li>
+ <li>⚡ I'm currently learning git and other cool stuff</li>
+<li>:video_game: I like PvP Games like<img width="23" height="23" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LoL_icon.svg"></li>
 </ul>
 
 
