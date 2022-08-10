@@ -1,6 +1,8 @@
 ![](https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
 
-- ⚡ I'm currently learning git and ohther cool stuff
+- ⚡ I'm currently learning git and other cool stuff
+- :video_game: I like PvP Games
+
 
 <!--
 **PascalShox/PascalShox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
