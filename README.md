@@ -1,4 +1,6 @@
-![](c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
+### Hello there ~K
+- M-1 I'm currently learning git
+![](https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
 
 
 <!--
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello
+
