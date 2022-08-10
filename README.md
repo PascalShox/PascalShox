@@ -11,7 +11,11 @@
 <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/1200px-WoW_icon.svg.png"></li>
 </ul>
 
+<p></p>
 
+<p align="center">
+ <img src="https://profile-counter.glitch.me/{PascalShox}/count.svg">
+</p>
 ![Visitor Count](https://profile-counter.glitch.me/{PascalShox}/count.svg)
 
 <!--
