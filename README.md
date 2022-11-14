@@ -7,15 +7,6 @@
 <br />
 <br />
 
-<ul>
- <li>⚡ I'm currently learning git and other cool stuff</li>
- <li>:fire: I know some stuff already about HTML, CSS, JS
- <li>:video_game: I like PvP games like: <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LoL_icon.svg">
- <img width="20" height="20" src="https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png">
- <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/1200px-WoW_icon.svg.png"></li>
-</ul>
-
-
 
 <br />
 <br />
